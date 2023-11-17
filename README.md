@@ -31,10 +31,6 @@ https://www.dnsleaktest.com/
 
 - In terminal you can see the realtime logs of it .
 
-# Note
-- I prefer DuckDuckGo its give anonymity and less footprint than other search engines.
-
-
 # Now lets try to add custom socks5 proxy address instead of tor:
 
 - First we need have socks5 ips for now we can use free version from below link.
@@ -50,4 +46,6 @@ proxychains firefox netflix.com
 ```
 <img width="834" alt="image" src="https://github.com/Kamalesh-Seervi/proxy-chains/assets/107933310/79ba248b-9be1-4d58-9c0b-cd3926d84faa">
 
-
+# Note
+- I prefer DuckDuckGo its give anonymity and less footprint than other search engines.
+- Try to use VPN or tor instead of proxychains because it unreliable in terms of speed ms its slower and come times the free socks5 ip wont work.
